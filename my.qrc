@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>img/Shutdown.ico</file>
+        <file>img/brushes.png</file>
+        <file>img/disk.png</file>
+        <file>img/document_background.png</file>
+        <file>img/font_32.png</file>
+        <file>img/setting_tools.png</file>
+        <file>img/font2lcd.ico</file>
+    </qresource>
+</RCC>
